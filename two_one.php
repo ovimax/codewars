@@ -15,7 +15,6 @@ function longest($a, $b) {
     sort($result);
 
     return implode(array_unique($result));
-
 }
 
 var_dump(longest("xyaabbbccccdefww","xxxxyyyyabklmopq"));
