@@ -1,4 +1,4 @@
-# ![CodWars](https://uploads-ssl.webflow.com/62e3ee10882dc50bcae8d07a/631aaf6b1a176ea0525b6983_codewars-logomark.svg) 
+# ![CodWars](https://uploads-ssl.webflow.com/62e3ee10882dc50bcae8d07a/631aaf6b1a176ea0525b6983_codewars-logomark.svg) CodeWars
 
 [![Profile badge](https://www.codewars.com/users/ovimax/badges/large)](https://www.codewars.com/users/ovimax)
 
