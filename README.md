@@ -20,6 +20,8 @@ My main language is **PHP**, but I'll try to load also JavaScript, or even some 
 * PHP - [<7 kyu> **Ones and Zeros**](https://www.codewars.com/kata/578553c3a1b8d5c40300037c) ([Solution](https://github.com/ovimax/codewars/blob/main/php/ones_zeros.php))
 * PHP - [<6 kyu> **Does my number look big in this?**](https://www.codewars.com/kata/5287e858c6b5a9678200083c) ([Solution](https://github.com/ovimax/codewars/blob/main/php/narcissistic_number.php))
 * PHP - [<6 kyu> **Duplicate Encoder**](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) ([Solution](https://github.com/ovimax/codewars/blob/main/php/duplicate_encoder.php))
+* PHP - [<6 kyu> **Which are in?**](https://www.codewars.com/kata/550554fd08b86f84fe000a58) ([Solution](https://github.com/ovimax/codewars/blob/main/php/which_are_in.php))
+
 
 
 ![Codewars](https://github.r2v.ch/codewars?user=ovimax&theme=gradient)
