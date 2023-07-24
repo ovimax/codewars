@@ -18,7 +18,7 @@ My main language is **PHP**, but I'll try to load also JavaScript, or even some 
 * PHP - [<7 kyu> **Complementary DNA**](https://www.codewars.com/kata/554e4a2f232cdd87d9000038) ([Solution](https://github.com/ovimax/codewars/blob/main/php/complementary_dna.php))
 * PHP - [<7 kyu> **Two to One**](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) ([Solution](https://github.com/ovimax/codewars/blob/main/php/two_one.php))
 * PHP - [<7 kyu> **Ones and Zeros**](https://www.codewars.com/kata/578553c3a1b8d5c40300037c) ([Solution](https://github.com/ovimax/codewars/blob/main/php/ones_zeros.php))
-
+* PHP - [<6 kyu> **Does my number look big in this?**](https://www.codewars.com/kata/5287e858c6b5a9678200083c) ([Solution](https://github.com/ovimax/codewars/blob/main/php/narcissistic_number.php))
 
 
 
