@@ -27,5 +27,3 @@ function duplicate_encode($word){
 
     return $response;
 }
-
-var_dump(duplicate_encode("din"));
